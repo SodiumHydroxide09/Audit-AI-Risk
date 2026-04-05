@@ -1,0 +1,20 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+data/raw/
+chromadb/
+mlruns/
+.DS_Store
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+
+# React / Frontend
+node_modules/
+frontend/node_modules/
+build/
+.next/
+out/

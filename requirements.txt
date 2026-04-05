@@ -1,0 +1,35 @@
+# Core
+python-dotenv
+pandas
+numpy
+tqdm
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+groq
+
+# Document parsing
+pymupdf
+openpyxl
+
+# LangChain + RAG
+langchain
+langchain-community
+langchain-groq
+chromadb
+sentence-transformers
+
+# Anomaly detection
+scikit-learn
+torch
+
+# Dashboard
+streamlit
+plotly
+
+# Report generation
+fpdf2
+
+# MLOps
+mlflow
