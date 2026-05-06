@@ -74,8 +74,4 @@ audit-risk-ai/
 └── .env.example
 ```
 
-## Interview Talking Points (Deloitte)
-- "I built this to simulate how AI can augment an auditor's workflow"
-- "The RAG engine allows auditors to query 100s of pages instantly"
-- "Isolation Forest detects anomalies without needing labelled training data"
-- "The full pipeline is containerised and deployable to AWS or Azure"
+
